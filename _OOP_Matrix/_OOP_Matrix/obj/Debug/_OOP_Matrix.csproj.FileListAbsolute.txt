@@ -1,0 +1,10 @@
+H:\_OOP_Matrix\_OOP_Matrix\bin\Debug\_OOP_Matrix.exe.config
+H:\_OOP_Matrix\_OOP_Matrix\bin\Debug\_OOP_Matrix.exe
+H:\_OOP_Matrix\_OOP_Matrix\bin\Debug\_OOP_Matrix.pdb
+H:\_OOP_Matrix\_OOP_Matrix\obj\Debug\_OOP_Matrix.csprojAssemblyReference.cache
+H:\_OOP_Matrix\_OOP_Matrix\obj\Debug\_OOP_Matrix.Properties.Resources.resources
+H:\_OOP_Matrix\_OOP_Matrix\obj\Debug\_OOP_Matrix.csproj.GenerateResource.cache
+H:\_OOP_Matrix\_OOP_Matrix\obj\Debug\_OOP_Matrix.csproj.CoreCompileInputs.cache
+H:\_OOP_Matrix\_OOP_Matrix\obj\Debug\_OOP_Matrix.exe
+H:\_OOP_Matrix\_OOP_Matrix\obj\Debug\_OOP_Matrix.pdb
+H:\_OOP_Matrix\_OOP_Matrix\obj\Debug\_OOP_Matrix.CMatrix.resources
